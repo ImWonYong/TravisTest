@@ -24,7 +24,7 @@ public class ExampleUnitTest {
         assertTrue(a.getAge() == 3);
         assertTrue(a.getName().equals("참새"));
         assertTrue(a.getFly() == true);
-        assertTrue(a.shout().equals("뻐꾹"));
+        assertTrue(a.shout().equals("짹짹"));
 
     }
 }
