@@ -1,29 +1,29 @@
 
-B
-java:S2698" Add a message to this assertion.(¨¢¯ëıÿÿÿÿ8œÍ–À™/
-7
-java:S5785"Use assertNotNull instead.(­Ï—õ8àà–À™/
-;
-java:S5785"Use assertEquals instead.(“–÷Ğøÿÿÿÿ8àà–À™/
-;
-java:S5786"Remove this 'public' modifier.(ºÏÄö8ı§Ş¿™/
-=
-java:S2698" Add a message to this assertion.(Ò’çÂ8ğÆæ¿™/
-;
-java:S5785"Use assertEquals instead.(¼¤Œüÿÿÿÿ8àà–À™/
-;
-java:S5785"Use assertEquals instead.(¨¢¯ëıÿÿÿÿ8àà–À™/
-B
-java:S2698" Add a message to this assertion.(¼¤Œüÿÿÿÿ8ğÆæ¿™/
 @
 java:S5786"Remove this 'public' modifier.(Ìƒèîøÿÿÿÿ8ı§Ş¿™/
 B
-java:S2698" Add a message to this assertion.(“–÷Ğøÿÿÿÿ8ğÆæ¿™/
+java:S2698" Add a message to this assertion.(¬—İ²üÿÿÿÿ8œÍ–À™/
+;
+java:S5786"Remove this 'public' modifier.(ºÏÄö8ı§Ş¿™/
+B
+java:S2698" Add a message to this assertion.(¼¤Œüÿÿÿÿ8ğÆæ¿™/
 =
 java:S2698" Add a message to this assertion.(­Ï—õ8æÔß¿™/
+6
+java:S5785"Use assertEquals instead.(Ò’çÂ8àà–À™/
+;
+java:S5785"Use assertEquals instead.(¼¤Œüÿÿÿÿ8àà–À™/
+=
+java:S2698" Add a message to this assertion.(Ò’çÂ8ğÆæ¿™/
+B
+java:S2698" Add a message to this assertion.(“–÷Ğøÿÿÿÿ8ğÆæ¿™/
+;
+java:S5785"Use assertEquals instead.(¬—İ²üÿÿÿÿ8àà–À™/
 @
 java:S5979	"#Initialize mocks before using them.(ƒåš…8å Ü¿™/
 o
 java:S3578"RRename this method name to match the regular expression: '^test[A-Z][a-zA-Z0-9]*$'(ºÏÄö8ı§Ş¿™/
-6
-java:S5785"Use assertEquals instead.(Ò’çÂ8àà–À™/
+;
+java:S5785"Use assertEquals instead.(“–÷Ğøÿÿÿÿ8àà–À™/
+7
+java:S5785"Use assertNotNull instead.(­Ï—õ8àà–À™/

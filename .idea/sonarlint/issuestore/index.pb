@@ -9,3 +9,5 @@ R
 "src/test/java/ExampleUnitTest.java,a\e\aede84d3332808f6eb8d7d421a59612d020837d9
 I
 src/main/java/Animal.java,1\1\11ee72e618c53e58d1691683a1e05851c6d0fdd7
+;
+.travis.yml,d\e\dea01dd89a3b602828e630677fde5d77c06441c8
