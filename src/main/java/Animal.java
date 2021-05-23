@@ -8,7 +8,7 @@ public class Animal {
     private Sound sound;
 
     public void setSound(Sound sound) {
-        this.sound = sound;
+
     }
 
     public String shout() {
