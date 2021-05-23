@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-23T07:22:26" hostname="DESKTOP-ONMGM0O" time="0.104">
+  <properties/>
+  <testcase name="mockTest()" classname="ExampleUnitTest" time="0.104"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

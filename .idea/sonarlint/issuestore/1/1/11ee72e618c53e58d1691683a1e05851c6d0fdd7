@@ -1,0 +1,52 @@
+
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ú›Šøøÿÿÿÿ8—§Ò¿™/
+\
+java:S1258":Add a constructor to the class, or provide default values.(ÆŒÎ“úÿÿÿÿ8ÀÑ¿™/
+c
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(Ä°İ–ûÿÿÿÿ8™¢ŠÀ™/
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ƒÈ±íùÿÿÿÿ8—§Ò¿™/
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ñ‹ú™øÿÿÿÿ8—§Ò¿™/
+f
+java:S1120'"DMake this line start after 4 spaces to indent the code consistently.(Ñß°çûÿÿÿÿ8—§Ò¿™/
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ò’Š¯8—§Ò¿™/
+4
+java:S1451"&Add or update the header of this file.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Âñ8‹»ŒÀ™/
+]
+java:S1106""AMove this left curly brace to the beginning of next line of code.(Ã÷´	8—§Ò¿™/
+f
+java:S1120+"DMake this line start after 4 spaces to indent the code consistently.(óÖ£®úÿÿÿÿ8—§Ò¿™/
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ÕˆÄ¹üÿÿÿÿ8ğÜŠÀ™/
+L
+java:S3740*"/Provide the parametrized type for this generic.(”ªºİ8—§Ò¿™/
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(»Ã÷¤øÿÿÿÿ8—§Ò¿™/
+c
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(Ğ§ôÿÿÿÿÿ8—§Ò¿™/
+0
+java:S1220""Move this file to a named package.
+f
+java:S1120#"DMake this line start after 4 spaces to indent the code consistently.(…³ˆÖıÿÿÿÿ8—§Ò¿™/
+a
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Ë¥¼8ÀÑ¿™/
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ú­³Ìúÿÿÿÿ8—§Ò¿™/
+a
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(üõàŒ8‹»ŒÀ™/
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÆŒÎ“úÿÿÿÿ
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(É´“ıÿÿÿÿ8—§Ò¿™/
+^
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(”ªºİ8—§Ò¿™/
+U
+java:S2039"3Explicitly declare the visibility for "animalList".(Õ¾“Ïûÿÿÿÿ8ÀÑ¿™/
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(™ûã†ıÿÿÿÿ8—§Ò¿™/
