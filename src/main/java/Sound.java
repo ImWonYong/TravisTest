@@ -1,3 +1,3 @@
 public interface Sound {
-    public String shout();
+    public void shout();
 }
